@@ -32,7 +32,7 @@ google-auth==2.38.0
     # via
     #   google-api-core
     #   google-cloud-secret-manager
-google-cloud-secret-manager==2.22.1
+google-cloud-secret-manager==2.23.0
     # via -r requirements.in
 google-crc32c==1.6.0
     # via -r requirements.in
